@@ -1,2 +1,2 @@
 # stat card
- a card displayind an infformation
+ a card displaying an information
